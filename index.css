@@ -1,0 +1,52 @@
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 8rem;
+    color: #4ECCA3;
+}
+
+div {
+    position: fixed;
+    display: inline-block;
+    top: 36%;
+}
+
+.img1 {
+    position: fixed;
+    display: inline-block;
+    left: 19%;
+    top: 34%;
+}
+
+.img2 {
+    position: fixed;
+    display: inline-block;
+    left: 54%;
+    top: 34%;
+}
+
+body {
+    background-color: grey;
+}
+
+h2 {
+    display: inline-block;
+    position: fixed;
+    left: 25%;
+    top: 23%;
+
+}
+
+.h2 {
+    display: inline-block;
+    position: fixed;
+    left: 60%;
+    top: 23%;
+}
